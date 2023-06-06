@@ -1,0 +1,51 @@
+body{
+    background-image:url('/img/world-map-on-a-technological.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+	width: 960px;
+	margin-top: 15%;
+	overflow: hidden;
+    
+}
+
+.clock {
+	width: 800px;
+	margin: 0 auto;
+	padding: 30px;
+	border: 1px solid #73A9AD;
+	color: #051428;
+    text-shadow: #9336B4 1px 0 22px;
+}
+
+#Date {
+	font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	text-align: center;
+	text-shadow: #051428 1px 2 15px;
+}
+
+ul {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0px;
+	list-style: none;
+	text-align: center;
+}
+
+ul li {
+	display: inline;
+	font-size: 10em;
+	text-align: center;
+	font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+	text-shadow: 0 0 5px #00c6ff;
+}
+
+#point {
+	position: relative;
+	padding-left: 10px;
+	padding-right: 10px;
+}
